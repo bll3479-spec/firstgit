@@ -25,7 +25,7 @@ Unordered List
 ~~취소~~
 
 #### 소스코드 삽입
-` function add (x,y) {return x+y}
+` function add (x,y) {return x+y} `
 ```python
 number = input("정수입력>")
 number = int(number)
