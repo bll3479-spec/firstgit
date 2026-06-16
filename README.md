@@ -7,5 +7,3 @@
 
 소스 소개글 작성하기
 
-read me 사용 문법? 
-do not touch README.md
